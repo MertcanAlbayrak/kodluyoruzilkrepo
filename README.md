@@ -3,7 +3,7 @@ Bu Repo *Kodluyoruz* Front-End Eğitiminde oluşturduğumuzilk repo, İçerisind
 ## Installation
 
 
- Git Clone https://github.com/MertcanAlbayrak/kodluyoruzilkrepo.git
+ Git Clone 'https://github.com/MertcanAlbayrak/kodluyoruzilkrepo.git'
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Lisence
 
-MIT 
+MIT
