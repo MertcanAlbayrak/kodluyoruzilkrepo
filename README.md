@@ -2,8 +2,9 @@
 Bu Repo *Kodluyoruz* Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ## Installation
 
-
- Git Clone ```https://github.com/MertcanAlbayrak/kodluyoruzilkrepo.git```
+```
+ Git Clone https://github.com/MertcanAlbayrak/kodluyoruzilkrepo.git
+ ```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
