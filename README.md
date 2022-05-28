@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Lisence
 
-MIT
+MIT 
