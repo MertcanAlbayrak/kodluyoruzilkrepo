@@ -23,3 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Lisence
 
 MIT
+
+## Link
+https://app.patika.dev/courses/git/odev1
